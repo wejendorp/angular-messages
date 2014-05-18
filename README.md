@@ -1,4 +1,11 @@
-bower-angular-messages
+# Note
+The official repo has been released: https://github.com/angular/bower-angular-messages,
+and you can now install the latest versions with just
+
+    $ bower install angular-messages
+    
+
+wejendorp/angular-messages
 ======================
 
 Bower repo until angular creates an official `bower-angular-messages` repo and package
